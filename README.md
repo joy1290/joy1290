@@ -2,37 +2,35 @@
 
 ### 💻 Beginner Web Developer | Frontend Developer
 
-I'm a passionate beginner web developer who enjoys building responsive,
-clean, and user-friendly websites.
+I'm a passionate beginner web developer who enjoys building responsive, clean, and user-friendly websites.
 
-I’m currently learning and improving my skills in modern web development
-and working on different projects to build my portfolio.
+I’m currently learning and improving my skills in modern web development and working on different projects to build my portfolio.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on Web Development projects
-- 🌱 Currently learning JavaScript and React
-- 💻 Interested in Frontend Development
-- 🎨 Enjoy creating responsive and modern websites
-- 📚 Always interested in learning new technologies
+- 🔭 **Current Focus:** Working on Web Development projects
+- 🌱 **Learning:** Improving my skills in JavaScript, React.js & Tailwind CSS
+- 💻 **Interest:** Frontend Web Development
+- 🎨 **Passion:** Creating responsive and modern user interfaces
+- 📚 **Goal:** Always eager to learn new web technologies
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Tools
-- Git
-- GitHub
-- VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -41,20 +39,23 @@ and working on different projects to build my portfolio.
 ### 🌐 Project Using Tailwind CSS
 A responsive website built using HTML and Tailwind CSS.
 
-🔗 [View Project](https://github.com/joy1290/Project_Using_Tailwind)
- 🚀 [Live Demo Link](https://joy1290.github.io/Project_Using_Tailwind/)
+- 🔗 [Repository Link](https://github.com/joy1290/Project_Using_Tailwind)
+- 🚀 [Live Demo Link](https://joy1290.github.io/Project_Using_Tailwind/)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joy1290&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=joy1290&show_icons=true&theme=tokyonight" alt="Joy's GitHub Stats" />
+</p>
+
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: [@joy1290](https://github.com/joy1290)
-- Email: joydhar025@gmail.com
+- 🌐 **GitHub:** [@joy1290](https://github.com/joy1290)
+- 📧 **Email:** joydhar025@gmail.com
 
 ---
 
