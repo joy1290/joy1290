@@ -1,3 +1,5 @@
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Joy%20Gopal%20Dhar&fontSize=50&animation=fadeIn&fontAlignY=38)
+
 # Hi, I'm Joy Gopal Dhar 👋
 
 ### 💻 Beginner Web Developer | Frontend Developer
