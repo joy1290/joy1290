@@ -53,10 +53,8 @@ A responsive website built using HTML and Tailwind CSS.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joy1290&show_icons=true&theme=tokyonight" alt="Joy's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joy1290&theme=tokyonight" alt="Joy's GitHub Streak Stats" />
 </p>
-
-
 
 ---
 
