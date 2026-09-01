@@ -1,4 +1,6 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Joy%20Gopal%20Dhar&fontSize=50&animation=fadeIn&fontAlignY=38)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=260&section=header&text=Joy%20Gopal%20Dhar&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Beginner%20Web%20Developer%20%7C%20Frontend%20Developer&descSize=20&descAlignY=62&descColor=8b949e" width="100%" alt="Joy Gopal Dhar Banner" />
+</p>
 
 # Hi, I'm Joy Gopal Dhar 👋
 
