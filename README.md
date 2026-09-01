@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=260&section=header&text=Joy%20Gopal%20Dhar&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Beginner%20Web%20Developer%20%7C%20Frontend%20Developer&descSize=20&descAlignY=62&descColor=8b949e" width="100%" alt="Joy Gopal Dhar Banner" />
-</p>
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Joy%20Gopal%20Dhar&fontSize=50&animation=fadeIn&fontAlignY=38)
 
 # Hi, I'm Joy Gopal Dhar 👋
 
@@ -63,7 +61,7 @@ A responsive website built using HTML and Tailwind CSS.
 ## 📫 Connect With Me
 
 - 🌐 **GitHub:** [@joy1290](https://github.com/joy1290)
-- 📧 **Email:** joydhar025@gmail.com
+- 📧 **Email:** joydhar1122@gmail.com
 
 ---
 
