@@ -62,6 +62,7 @@ A responsive website built using HTML and Tailwind CSS.
 
 - 🌐 **GitHub:** [@joy1290](https://github.com/joy1290)
 - 📧 **Email:** joydhar1122@gmail.com
+- 📧 **Email:** joydhar025@gmail.com 
 
 ---
 
